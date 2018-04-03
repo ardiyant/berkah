@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "saga"
+    "name": "roon"
   },
   "urls": {
     "site": "https://ardiyant.github.io",
     "hubpress": "http://ninc.netlify.com",
-    "theme": "//ardiyant.github.io/themes/casper",
+    "theme": "//ardiyant.github.io/themes/saga",
     "images": "https://ardiyant.github.io/images"
   },
   "initialisationConfigComponent": {
